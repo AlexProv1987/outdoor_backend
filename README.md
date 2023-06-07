@@ -44,5 +44,5 @@ A REST api written in Django for people with deadlines
     ```
     You can now access the service on your browser by using
     ```
-        http://localhost:8000/auth/
+        http://localhost:8000/api/
     ```
