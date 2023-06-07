@@ -42,7 +42,7 @@ A REST api written in Django for people with deadlines
     ```bash
         $ python manage.py runserver
     ```
-    You can now access the file api service on your browser by using
+    You can now access the service on your browser by using
     ```
         http://localhost:8000/auth/
     ```
